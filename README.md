@@ -1,4 +1,4 @@
-![header - me at a piano](images/header.png)
+![header - me at a piano](images/header2.png)
 
 # Hi, I'm Tommy
 
